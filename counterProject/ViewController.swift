@@ -12,9 +12,16 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         view.backgroundColor = .orange
-        // Do any additional setup after loading the view.
+        bacgroundcolor()
     }
-
+    var myNum = 5
+    func bacgroundcolor() {
+        if myNum > 10 {
+            view.backgroundColor = .red
+        } else {
+            view.backgroundColor = .green
+        }
+    }
 
 }
 
