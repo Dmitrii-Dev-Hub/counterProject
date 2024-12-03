@@ -13,7 +13,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         view.backgroundColor = .orange
         bacgroundcolor()
+        print(view.frame)
     }
+    
     var myNum = 5
     func bacgroundcolor() {
         if myNum > 10 {
