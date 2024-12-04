@@ -11,20 +11,20 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		432A37982CFCD66A00C3B757 /* Exceptions for "counterProject" folder in "counterProject" target */ = {
+		1929E1352D00DC3000885694 /* Exceptions for "counterProject" folder in "counterProject" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				Resources/Info.plist,
 			);
 			target = 432A37852CFCD66800C3B757 /* counterProject */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		432A37882CFCD66800C3B757 /* counterProject */ = {
+		1929E1302D00DC2F00885694 /* counterProject */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				432A37982CFCD66A00C3B757 /* Exceptions for "counterProject" folder in "counterProject" target */,
+				1929E1352D00DC3000885694 /* Exceptions for "counterProject" folder in "counterProject" target */,
 			);
 			path = counterProject;
 			sourceTree = "<group>";
@@ -45,7 +45,7 @@
 		432A377D2CFCD66800C3B757 = {
 			isa = PBXGroup;
 			children = (
-				432A37882CFCD66800C3B757 /* counterProject */,
+				1929E1302D00DC2F00885694 /* counterProject */,
 				432A37872CFCD66800C3B757 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -74,7 +74,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				432A37882CFCD66800C3B757 /* counterProject */,
+				1929E1302D00DC2F00885694 /* counterProject */,
 			);
 			name = counterProject;
 			packageProductDependencies = (
@@ -147,7 +147,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = FT3HXNRJ4D;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = counterProject/Info.plist;
+				INFOPLIST_FILE = counterProject/Resources/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -178,7 +178,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = FT3HXNRJ4D;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = counterProject/Info.plist;
+				INFOPLIST_FILE = counterProject/Resources/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
