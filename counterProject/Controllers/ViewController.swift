@@ -19,7 +19,7 @@ class ViewController: UIViewController {
     }
     
     private func setupLayouts() {
-        
+
     }
     
     private func setupAppearance() {
